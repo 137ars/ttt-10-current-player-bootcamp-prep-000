@@ -1,3 +1,5 @@
 def turn_count(board)
-  if turn_co
+  counter = 0
+  if 
+  end
 end
